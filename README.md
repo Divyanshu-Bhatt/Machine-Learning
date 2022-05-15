@@ -1,3 +1,3 @@
 # Notion
-Matrix Approximation 
+Matrix Approximation  
 SVD Visulaisation
